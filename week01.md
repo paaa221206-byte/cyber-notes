@@ -24,3 +24,7 @@ The computer shuts down
 Files opend will not be saved if the desktop goes off 
 #Which letter of CIA that is ?
 Letter A (availability)
+#System information
+BIOS mode- UEFI
+Secure BOOt State- On 
+BIOS version/date- HP R70 Ver.01.36.00 
