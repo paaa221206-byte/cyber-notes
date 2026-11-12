@@ -54,5 +54,13 @@ BIOS version/date- HP R70 Ver.01.36.00
 2.WhatsApp on my phone(client) and the WhatsApp server(server)
 3.Youtube/Google chrome(client) and Youtube/Google chrome server(server)
 
+#Watching a client and server talk
+Request URL: https://www.wikipedia.org/
+Request Method: GET
+Status code: 304 Not modified
 
+Spliting the URL
+-Scheme: https
+-Host: www.wikipedia.org
+-Path: /
 
