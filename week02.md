@@ -50,3 +50,31 @@ ping google.com
 a.time= 126ms, TTL= 110
 b. lost number= 0(0% loss)
 
+#Day03
+a. nslookup google.com
+IPv4= 192.168.1.1
+IPv6= 2a00:1450:4009:c19::65
+
+b. nslookup -type=mx gmail.com
+mail server= gmail-smtp-in.l.google.com
+small preference number= 5
+
+#DNS memory
+Record Name: wifiportal.ktu.edu.gh
+A (Host) Record: 102.223.93.19
+Time to live:15534
+
+#The Host file
+Number of lines that does not start with "#" is = 0
+
+Why malware might add a line like 6.6.6.6 mtn.com.gh
+So that when i type mtn.com.gh, my laptop goes to the hacker's fake server at 6.6.6.6 instead of the real MTN site so it can steal my details. 
+
+#3 Lookalike names a scammer could register for mtn.com.gh and how to spot each.
+a. rntn.com.gh-the first letter isn't m buh rather r + n
+b. mtn-com-gh.com- Real site ends in .com.gh.This just ends with just .com and uses dashes.
+c.mtnn.com.gh- real mtn has one "n" and this has two "n".
+
+
+
+
